@@ -9,21 +9,8 @@ Welcome to the Passive Phased Array project! This repository contains the design
 - **/docs**: Documentation related to the project.
 - **/design_files**: Files related to the design of the phased array.
 
-## Usage
-1. **Setup**: Connect the fabricated chip to the PIC microcontroller according to the provided schematics.
-2. **Programming**: Upload the source code to the PIC microcontroller using a suitable programming tool.
-3. **Configuration**: Adjust the array parameters and configuration settings in the source code to suit your application requirements.
-4. **Integration**: Integrate the Passive Phased Array into your system and interface with it using the provided APIs.
-
-## Contributing
-Contributions to this project are welcome! If you have ideas for improvements or bug fixes, feel free to submit pull requests.
-
-## License
-This project is licensed under the [insert license name] license. See the LICENSE file for details.
-
-## Contact
-For any inquiries or support, please contact [insert contact information].
-
+## Characterization
+**The Characterization data are currently being analyzed and will be added ASAP!!**
 ## Acknowledgments
 We would like to thank [insert acknowledgments] for their contributions to this project.
 
@@ -31,13 +18,9 @@ We would like to thank [insert acknowledgments] for their contributions to this 
 ![Fabricated Chip](Fabricated_chip.jpg)
 
 ## Disclaimer
-[Insert disclaimer]
-
+This project is done as a part of the coursework of photonic integrated circuits course taught at uGent by professor Wim Bogaerts.
+The chip was fabricated using electron beam lithography technique using the facilities of uGent.
 ## References
 [Insert references]
 
-## Version History
-- Version X.X.X: [Insert changes]
-- Version X.X.X: [Insert changes]
-
-Thank you for your interest in the Passive Phased Array project!
+Thank you for your interest in the Passive Photonic Phased Array project!
