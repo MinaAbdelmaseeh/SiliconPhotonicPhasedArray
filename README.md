@@ -18,6 +18,7 @@ We would like to thank [insert acknowledgments] for their contributions to this 
 This project is done as a part of the coursework of photonic integrated circuits course taught at uGent by professor Wim Bogaerts.
 The chip was fabricated using electron beam lithography technique using the facilities of uGent.
 ## References
-[Insert references]
+The project is a recreation of a similar system to the one present in this article:
+[https://www.nature.com/articles/s41598-022-23456-7]
 
 Thank you for your interest in the Passive Photonic Phased Array project!
