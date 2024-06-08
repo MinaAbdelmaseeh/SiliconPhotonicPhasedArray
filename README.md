@@ -5,10 +5,7 @@ Welcome to the Passive Phased Array project! This repository contains the design
 ## Description
 
 ## Repository Structure
-- **/src**: Contains the source code for the PIC microcontroller.
-- **/docs**: Documentation related to the project.
-- **/design_files**: Files related to the design of the phased array.
-
+- **Python Notebook**: Contains the design, layout and simulation of the PIC.
 ## Characterization
 **The Characterization data are currently being analyzed and will be added ASAP!!**
 ## Acknowledgments
