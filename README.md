@@ -8,8 +8,6 @@ Welcome to the Passive Phased Array project! This repository contains the design
 - **Python Notebook**: Contains the design, layout and simulation of the PIC.
 ## Characterization
 **The Characterization data are currently being analyzed and will be added ASAP!!**
-## Acknowledgments
-We would like to thank [insert acknowledgments] for their contributions to this project.
 
 ## Fabricated Chip Image
 ![Fabricated Chip](Fabricated_chip.jpg)
