@@ -1,9 +1,8 @@
 # Passive Phased Array Readme
 
-Welcome to the Passive Phased Array project! This repository contains the design files and documentation for a Passive Phased Array implemented on a PIC microcontroller. This README will guide you through the project and its components.
+Welcome to the Passive Phased Array project! This repository contains the design files and documentation for a Passive Photonic Phased Array implemented using silicon photonics platform. This README will guide you through the project and its components.
 
 ## Description
-The Passive Phased Array is a project aimed at creating a configurable array of antenna elements controlled by a PIC microcontroller. This array can be used for various applications such as radar systems, direction finding, and beamforming.
 
 ## Repository Structure
 - **/src**: Contains the source code for the PIC microcontroller.
