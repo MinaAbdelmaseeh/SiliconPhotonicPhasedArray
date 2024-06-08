@@ -2,7 +2,6 @@
 
 Welcome to the Passive Phased Array project! This repository contains the design files and documentation for a Passive Photonic Phased Array implemented using silicon photonics platform. This README will guide you through the project and its components.
 
-## Description
 
 ## Repository Structure
 - **Python Notebook**: Contains the design, layout and simulation of the PIC.
